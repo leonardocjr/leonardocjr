@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/41709940/176806899-4c5f27a7-77b6-4304-acea-b0ee509e7272.png" width="25px"> Personal Github Profile
 ## 👉 About me
 - Hi! My name is **Leonardo** and this is my personal github profile. I like so much learn new things, adore tech and ~I a big pugs lover~.<br />
-Currently I'm studying **Computer Engineer** at *University Technology Federal of Paraná*. ([UTFPR](https://portal.utfpr.edu.br/home))<br /><br />
+Currently I'm studying **Computer Engineering** at *University Technology Federal of Paraná*. ([UTFPR](https://portal.utfpr.edu.br/home))<br /><br />
 
 ## 🚩 Details
 I'm fluent in english with an internacional common certificate. <br />
